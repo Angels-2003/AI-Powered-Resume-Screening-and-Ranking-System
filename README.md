@@ -34,7 +34,9 @@ An AI-powered resume screening and ranking system uses advanced machine learning
   
 
 ## Screenshots
-<img src="https://github.com/Angels-2003/AI-Powered-Resume-Screening-and-Ranking-System/blob/b5f8e4e553f6ee9ec72ea1f1397bade57522189b/scr1.jpg">
+<img src="https://github.com/Angels-2003/AI-Powered-Resume-Screening-and-Ranking-System/blob/b5f8e4e553f6ee9ec72ea1f1397bade57522189b/scr1.jpg>
+
+
 
 
 
