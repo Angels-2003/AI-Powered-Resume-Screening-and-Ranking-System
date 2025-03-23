@@ -1,4 +1,5 @@
-# Ai powered resume screening and ranking  App
+# Ai powered resume screening and ranking System
+An AI-powered resume screening and ranking system uses advanced machine learning algorithms to automatically analyze resumes and match them with job descriptions. It evaluates key factors such as skills, experience, and qualifications, and assigns a ranking to each resume based on its relevance.
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
@@ -10,6 +11,7 @@
 
 ## Features
 - Resume Score
+- Resume Ranking
 
 ## Usage
 - Clone my repository.
@@ -21,8 +23,9 @@
 - `app3.py` is the main Python file of Streamlit Web-Application. 
 
   streamlit run app3.py
-  ```
 - `Uploaded_Resumes` folder is contaning the user's uploaded resume
+
+  
 
 ## Screenshots
 <img src=">
