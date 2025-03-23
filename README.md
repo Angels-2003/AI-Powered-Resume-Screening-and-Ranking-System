@@ -26,6 +26,8 @@ An AI-powered resume screening and ranking system uses advanced machine learning
 - `Uploaded_Resumes` folder is contaning the user's uploaded resume
 
    https://github.com/Angels-2003/AI-Powered-Resume-Screening-and-Ranking-System/blob/bd7046a744b1b2d208cef8633746075d8e2969ed/IOS1.pdf
+
+   https://github.com/Angels-2003/AI-Powered-Resume-Screening-and-Ranking-System/blob/a20dd16df07a2af5359c21daf3b1f12607015863/UIUX_Resume1.pdf
   
   
 
